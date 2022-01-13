@@ -1,5 +1,5 @@
-Greetings, folks! ,
-i'm a softwere engineer.
+-  Greetings, folks! ,
+- i'm a softwere engineer.
 - 👋 Hi, I’m @talha javed
 - 👀 I’m interested in java pythen html
 - 🌱 I’m currently learning c++
